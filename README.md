@@ -10,3 +10,7 @@
  * SWAGGER
 
  # Cuando algo es lo suficientemente importante, lo haces incluso si las probalidades no estan a tu favor. La persistencia es muy importante, No debes rendirte a menos que te veas abligado a hacerlo.
+
+## desarrolladores del proyecto
+* Jonathan Nicoya
+* Darell jabriel DJ
