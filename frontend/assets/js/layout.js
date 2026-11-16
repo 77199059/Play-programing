@@ -1,1 +1,0 @@
-/* logica del estado comun como sidebar activo, buscador global */

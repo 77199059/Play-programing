@@ -1,0 +1,42 @@
+/*Oe dogs Para usar lo de root es esesncial que uses el var() y adentro el nombre de la variable q declaras en root*/
+:root {
+  --degradado_1: linear-gradient(to right, rgba(17, 96, 175, 0.499), rgb(8, 61, 114));
+  --degradado_2: linear-gradient(to bottom right, rgb(15, 48, 130), rgba(23, 76, 122, 0.979), rgb(15, 48, 130));
+  --color-primario: #194c7e;
+  --color-secundario: #1a1a1a;
+  --color-terciario: #f5f5f5;
+  --fuente-principal: 'Arial', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: var(--fuente-principal);
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+   min-height: 100vh;
+}
+
+header{
+    background: var(--degradado_2);
+    color: var(--color-terciario);
+    padding: 20px;
+    text-align: center;
+}
+
+main{
+  background-color: rgb(245, 245, 245);
+  flex: 1;
+}
+
+
+footer {
+  background: var(--degradado_2);
+  color: var(--color-terciario);
+  padding: 20px;
+  text-align: center;
+}
