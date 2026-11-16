@@ -14,3 +14,4 @@
 ## desarrolladores del proyecto
 * Jonathan Nicoya
 * Darell jabriel DJ
+* Kevin Lara
